@@ -313,7 +313,7 @@ li:last-child {
 }
 
 #boxes {
-  display: flex;
+  display: inline-flex;
   padding: 32px;
   column-gap: 44px;
   justify-content: center;
